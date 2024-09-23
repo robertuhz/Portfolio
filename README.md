@@ -1,6 +1,6 @@
 # [Project 1: What Makes a Hit Song?] 
 
-(https://github.com/robertuhz/portfolio/blob/main/spotify_sql_project.sql)
+https://github.com/robertuhz/portfolio/blob/main/spotify_sql_project.sql
 
 https://public.tableau.com/app/profile/robert.zhu/viz/SpotifyDashboard_17270853828350/Dashboard1?publish=yes
 
